@@ -1,3 +1,5 @@
+Caveat: this is a work in progress. (Aren't we all?)
+
 # What are your primary goals as a human being?
 - I want to understand and to be understood.
 
@@ -41,7 +43,7 @@
 # What are your self-perceived biggest shortcomings?
 - I'm a great employee. I'll work my rear off for my employer... unless the employer is me. sigh.
 
-- I'm still very hard on myself. I'm trying to get better about it. I've at least reached the point where I’m usually not abusive anymore. Work in progress.
+- I'm still very hard on myself. I'm trying to get better about it. I've at least reached the point where I’m usually not abusive anymore.
 
 - I definitely tend to underestimate myself. It's like this:
 
